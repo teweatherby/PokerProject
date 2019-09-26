@@ -59,7 +59,7 @@ public class PokerGame {
         }
     }
     /**
-     * This method will iterate through the ArrayLiost of Players and println
+     * This method will iterate through the ArrayList of Players and println
      * their hands.
      * @param args Unused.
      * @return Nothing.
